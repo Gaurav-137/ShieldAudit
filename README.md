@@ -113,7 +113,7 @@ SecureWatch is a comprehensive SaaS platform that helps small enterprises monito
 - **Jest** — Testing framework
 
 ---
-```
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
