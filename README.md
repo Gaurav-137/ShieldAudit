@@ -9,8 +9,6 @@
 
 SecureWatch is a comprehensive SaaS platform that helps small enterprises monitor website security vulnerabilities, detect malware, and receive plain-language recommendations — all with a single click.
 
-[Live Demo](https://demo.securewatch.io) • [Documentation](https://docs.securewatch.io) • [API Reference](#api-documentation)
-
 ---
 
 ## 🌟 Features
@@ -74,7 +72,7 @@ SecureWatch is a comprehensive SaaS platform that helps small enterprises monito
 └──────┘ └─────┘ └────────┘
 
 ---
-
+```
 ## 🔐 Security Checks
 
 | Category | Checks Performed |
